@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **hoy209/hoy209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +19,9 @@ Here are some ideas to get you started:
 
 <!-- github number of visits -->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235772EF&title_bg=%23534C4C&icon=&icon_color=%23F5F5F5&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+<!-- career -->
 
 ## Work Experience
 * Marketing channel attribution modeling
