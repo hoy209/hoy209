@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Minhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoy209)](https://github.com/hoy209/github-readme-stats)
+[![Minhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoy209&show_icons=true&theme=dracula)](https://github.com/hoy209/github-readme-stats)
+
+
+[^note]
+- ⚡ Fun fact: ...
