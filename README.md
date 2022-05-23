@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 [![Minhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoy209&hide=contribs&show_icons=true&theme=dracula)](https://github.com/hoy209/github-readme-stats)
 
 
-
-- ⚡ Fun fact: ...[^note]
