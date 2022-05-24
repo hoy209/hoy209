@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 ## Work Experience
 * Marketing channel attribution modeling
 * Time series forecasting on market trends
-* 
 
 ## Project
 * Kaggle competition - French SAT score prediction : regression and natural language processing on features [link](https://www.kaggle.com/c/dsia-spring2021)
@@ -38,4 +37,4 @@ Here are some ideas to get you started:
 
 ## Study
 * Gustave eiffel university (MA) - Computational social science
-* Hankuk university of foreign studies - Political science / French litteratrue & litterature
+* Hankuk university of foreign studies - Political science / French language & litterature
