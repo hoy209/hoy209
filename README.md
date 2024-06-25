@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- github stats -->
-[![Cold Chamomile's GitHub stats](https://github-readme-stats.vercel.app/api?username=ColdChamomile&hide=contribs&show_icons=true&theme=dracula)](https://github.com/hoy209/github-readme-stats)
-
-<!-- github number of visits -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235772EF&title_bg=%23534C4C&icon=&icon_color=%23F5F5F5&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-
 
 <!-- career -->
 
